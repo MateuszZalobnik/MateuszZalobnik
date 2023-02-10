@@ -4,35 +4,27 @@
 <img src="https://user-images.githubusercontent.com/77732992/209656472-681d00bd-86c2-4ceb-9f17-88182fc5d848.png" height="180">
 <img src="https://user-images.githubusercontent.com/77732992/209655635-3695ea3b-2335-4547-a390-d961b43e05f7.svg" height="180">
 <img src="https://user-images.githubusercontent.com/77732992/214703188-3c529051-88a0-4941-925f-48924cc25bd5.png" height="180">
+<img src="https://user-images.githubusercontent.com/77732992/218161879-1c42243b-235f-4a25-a510-20de1e63e64b.png" height="180">
+<img src="https://user-images.githubusercontent.com/77732992/218162897-eab75e83-deaa-4f1d-afe6-f48e6db8513b.png" height="180">
+
+
 ## About me
-I’m fronted react developer and here are techonologies I work with:
+⚡I’m fronted react developer aiming for fullstack and here are techonologies I work with⚡:
 
 - [x] TypeScript
-- [x] Mobile First
+- [x] Git/Github 
+- [x] React
+- [x] Next.js
 - [x] Redux
 - [x] React Router Dom
 - [x] Styled Components
+- [x] Mobile First
 - [x] SASS
 - [x] Bootstrap
 - [x] Firebase
-- [x] Next.js
-
-I’m currently learning node backend techonology, because I want to be fullstack⚡.
+- [x] Node.js
+- [x] Express.js
+- [x] MongoDB  
 
 ## About my projects
-I’m currently working on web game app.
-
-<!--
-**MateuszZalobnik/MateuszZalobnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on Music API web app.🔭
